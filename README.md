@@ -6,3 +6,5 @@
 * Component
 * Props
 * Grid Layout
+<br>
+<div align="center"><img alt="Project" src="https://github.com/MehmetCakir1/languageCardsWithReact/blob/master/languagesCard.gif"</div>
