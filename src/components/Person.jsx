@@ -11,6 +11,9 @@ const [visible,setVisible]=useState(true);
 const handleClick = ()=>{
     setVisible(!visible)
 }
+setTimeout(() => {
+    setVisible(true)
+}, 3000);
   return (
     <div>
         {
