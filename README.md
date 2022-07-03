@@ -7,4 +7,4 @@
 * Props
 * Grid Layout
 <br>
-<div align="center"><img alt="Project" src="https://github.com/MehmetCakir1/languageCardsWithReact/blob/master/languagesCard.gif"</div>
+<div align="center"><img src="https://github.com/MehmetCakir1/infoCardWithReact/blob/master/info-Card.gif"</div>
